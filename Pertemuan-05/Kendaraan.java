@@ -1,0 +1,3 @@
+interface Kendaraan {
+    void jalan();
+}
